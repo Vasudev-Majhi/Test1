@@ -1,0 +1,80 @@
+.iphone-1415-pro-max-1 .top-image {
+  background: url('../assets/images/top_image.png') 50% / cover no-repeat;
+  width: 1000px;
+  height: 250px;
+}
+.iphone-1415-pro-max-1 .the-intro {
+  background: url('../assets/images/the_intro.png') 50% / cover no-repeat;
+  margin-right: 6px;
+  width: 530px;
+  height: 750px;
+}
+.iphone-1415-pro-max-1 .krsnas-photo {
+  background: url('../assets/images/krsnas_photo.png') 50% / cover no-repeat;
+  margin: 23px 0;
+  width: 440px;
+  height: 704px;
+}
+.iphone-1415-pro-max-1 .container-1 {
+  margin: 0 24px 23px 0;
+  display: flex;
+  flex-direction: row;
+  width: 976px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-max-1 .be-apart-of-iskcon {
+  background: url('../assets/images/be_apart_of_iskcon.png') 50% / cover no-repeat;
+  margin-bottom: 13px;
+  width: 1031px;
+  height: 92px;
+}
+.iphone-1415-pro-max-1 .ss-1 {
+  background: url('../assets/images/ss_1.png') 50% / cover no-repeat;
+  margin-right: 39px;
+  width: 444px;
+  height: 365px;
+}
+.iphone-1415-pro-max-1 .ss-2 {
+  background: url('../assets/images/ss_2.png') 50% / cover no-repeat;
+  width: 476px;
+  height: 365px;
+}
+.iphone-1415-pro-max-1 .container {
+  margin: 0 24px 91px 17px;
+  display: flex;
+  flex-direction: row;
+  width: 959px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-max-1 .prasad-distribution {
+  background: url('../assets/images/prasad_distribution.png') 50% / cover no-repeat;
+  margin: 0 1px 56px 0;
+  width: 635px;
+  height: 952px;
+}
+.iphone-1415-pro-max-1 .screenshot-20240818-at-34223-pm-1 {
+  background: url('../assets/images/screenshot_20240818_at_34223_pm_1.png') 50% / cover no-repeat;
+  margin: 0 0 25px 21px;
+  width: 613px;
+  height: 114px;
+}
+.iphone-1415-pro-max-1 .qr {
+  background: url('../assets/images/qr.jpeg') 50% / cover no-repeat;
+  margin: 0 1px 25px 0;
+  width: 419px;
+  height: 424px;
+}
+.iphone-1415-pro-max-1 .screenshot-20240818-at-34258-pm-1 {
+  background: url('../assets/images/screenshot_20240818_at_34258_pm_1.png') 50% / cover no-repeat;
+  width: 1000px;
+  height: 233px;
+}
+.iphone-1415-pro-max-1 {
+  background: #FCF6D7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 57px 0 21px 0;
+  width: 1000px;
+  box-sizing: border-box;
+}
